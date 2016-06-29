@@ -1,0 +1,13 @@
+<OMOBJ>
+        <OMA>
+                <OMS cd="list1" name="list"/>
+                <OMI>1</OMI>
+                <OMI>2</OMI>
+                <OMA>
+                        <OMS cd="list1" name="list"/>
+                        <OMI>3</OMI>
+                        <OMI>4</OMI>
+                        <OMI>5</OMI>
+                </OMA>
+        </OMA>
+</OMOBJ>

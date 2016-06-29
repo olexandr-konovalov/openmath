@@ -1,0 +1,15 @@
+<OMOBJ>
+	<OMA>
+		<OMS cd="complex1" name="complex_cartesian"/>
+		<OMA>
+			<OMS cd="nums1" name="rational"/>
+			<OMI>2</OMI>
+			<OMI>3</OMI>
+		</OMA>
+		<OMA>
+			<OMS cd="nums1" name="rational"/>
+			<OMI>5</OMI>
+			<OMI>4</OMI>
+		</OMA>
+	</OMA>
+</OMOBJ>

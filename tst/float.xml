@@ -1,0 +1,13 @@
+<OMOBJ>
+	<OMA>
+		<OMS cd="list1" name="list"/>
+		<OMF dec="0"/>
+		<OMF dec="1."/>
+		<OMF dec="0.5"/>
+		<OMF dec="-1."/>
+		<OMF dec="19487171."/>
+		<OMF dec="5.1315811823070673e-08"/>
+		<OMF dec="-19487171."/>
+		<OMF dec="-5.1315811823070673e-08"/>
+	</OMA>
+</OMOBJ>

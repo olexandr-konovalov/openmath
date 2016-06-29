@@ -1,0 +1,9 @@
+<OMOBJ>
+    <OMATTR>
+        <OMATP>
+            <OMS cd="integer1" name="factorial"/>
+            <OMI>10</OMI>
+        </OMATP>
+        <OMI>3628800</OMI>
+    </OMATTR>
+</OMOBJ>
